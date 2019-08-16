@@ -1,0 +1,2 @@
+DELETE FROM DPlayer;
+DELETE FROM DHighScore;

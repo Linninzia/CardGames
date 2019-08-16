@@ -1,0 +1,2 @@
+SELECT * FROM DPlayer;
+SELECT * FROM DHighScore;

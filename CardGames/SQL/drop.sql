@@ -1,0 +1,2 @@
+DROP TABLE DHighScore;
+DROP TABLE DPlayer;
